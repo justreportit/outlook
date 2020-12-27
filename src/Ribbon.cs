@@ -18,7 +18,7 @@ namespace JustReportIt
     {
         private const string PR_TRANSPORT_MESSAGE_HEADERS = "http://schemas.microsoft.com/mapi/proptag/0x007D001E";
         private const string LOOKUP_URL = "https://api.justreport.it/lookup/";
-        private const string API_KEY = "DeVKFVPs3T40XYrUeQl9z5adMwopbYnY8jaAbecw";
+        private const string API_KEY = "API_KEY";
 
         private Office.IRibbonUI ribbon;
 
